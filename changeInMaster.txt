@@ -1,3 +1,7 @@
 just test in Master
+<<<<<<< HEAD
 
 why second message missing
+=======
+thank you Rahman the Master branch working ... now  check in git bash
+>>>>>>> 4e2476ca75f16827c27af756894c9e5c606e9f7d
